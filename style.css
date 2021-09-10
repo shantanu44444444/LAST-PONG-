@@ -1,0 +1,46 @@
+body
+{
+background-size: cover;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+}
+
+canvas{
+    width: 10px;
+    border-style: groove;
+    box-shadow: 20px  20px  20px palegreen ;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white ;
+}
+
+#start , #status{
+    font-size: 22px;
+}
+
+h4{
+    background-color: azure;
+    line-height: 2;
+    margin: 0px;
+    
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.Instruction_image{
+    display: inline-block;
+    width: 45%;
+}
